@@ -198,8 +198,6 @@ The current implementation generates analysis results dynamically from the suppl
 
 The sentiment score is derived from the input length and then mapped to Positive, Neutral, or Negative categories. Emotional-vector values are also calculated from characteristics of the input, while entities are selected from a predefined technical entity collection.
 
-**Important:** This means the current version is best described as a **semantic-analysis UI/prototype** rather than a production NLP model. The runtime interface presents an AI/LLM-style processing pipeline, but the uploaded code does not contain an actual transformer/LLM inference implementation. This distinction is important when presenting the project professionally.
-
 ---
 
 ## 🎯 Project Objective
@@ -242,9 +240,7 @@ The current version focuses on the frontend experience and analysis visualizatio
 
 ---
 
-## 👨‍💻 Author
 
-**Aryan Singal**
 
 Built as an exploration of:
 
