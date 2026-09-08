@@ -191,32 +191,6 @@ npm run dev
 
 Then open the local development URL shown by your framework.
 
-> **Note:** The uploaded project file is the main React application component. Your final GitHub repository should include the appropriate `package.json`, Tailwind configuration, entry point, and build configuration required by your chosen React setup.
-
----
-
-## 📂 Project Structure
-
-A recommended repository structure is:
-
-```text
-nexus-sentiment/
-│
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── public/
-│
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-├── vite.config.js
-└── README.md
-```
-
----
 
 ## 🔍 Core Analysis Logic
 
